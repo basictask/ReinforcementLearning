@@ -1,0 +1,2 @@
+﻿Neptun,Case_1_ Bridge_A: P(jam),Case_1_ Bridge_A Reward(jam),Case_1_ Bridge_A Reward(normal),Case_1_Bridge_B: P(jam),Case_1_Bridge_B Reward(jam),Case_1_Bridge_B Reward(normal),Case_2_ Bridge_A: P(jam),Case_2_ Bridge_A: Reward(jam),Case_2_ Bridge_A Reward(normal),Case_2_Bridge_B: P(jam),Case_2_Bridge_B Reward(jam),Case_2_Bridge_B Reward(normal)
+Y80L35,0.18,-49,-9,0.29,-46,-12,0.19,-33,-23,0.14,-43,-2
